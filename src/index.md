@@ -7,4 +7,6 @@ post:
     img: 'images/grand_canyon.jpg'
     imgAlt: 'View of the Grand Canyon'
     imgCite: 'https://www.pexels.com/photo/canyon-eroded-formations-12293440/'
+    imgWidth: '300'
+    imgHeight: '375'
 ---
