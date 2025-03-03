@@ -1,0 +1,23 @@
+{
+  "name": "cse134-hw4-static-site",
+  "version": "1.0.0",
+  "description": "Site Link: https://teal-melomakarona-5f1e53.netlify.app/",
+  "main": ".11ty.js",
+  "scripts": {
+    "start": "npx eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniel-P-Arevalo/cse134-hw4-static-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daniel-P-Arevalo/cse134-hw4-static-site/issues"
+  },
+  "homepage": "https://github.com/Daniel-P-Arevalo/cse134-hw4-static-site#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}
